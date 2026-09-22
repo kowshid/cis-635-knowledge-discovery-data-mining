@@ -6,6 +6,7 @@ target/
 .venv/
 .mutmut-cache
 __pycache__/
+*.bin
 
 ### IntelliJ IDEA ###
 *.iws
